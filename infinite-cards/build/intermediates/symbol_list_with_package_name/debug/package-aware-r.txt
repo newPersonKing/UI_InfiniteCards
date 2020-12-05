@@ -1,0 +1,11 @@
+com.bakerj.infinitecards.lib
+attr animAddRemoveDelay
+attr animAddRemoveDuration
+attr animDuration
+attr animType
+attr cardRatio
+id front
+id frontToLast
+id switchPosition
+string app_name
+styleable InfiniteCardView animAddRemoveDelay animAddRemoveDuration animDuration animType cardRatio

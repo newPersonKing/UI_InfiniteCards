@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+attr? animAddRemoveDelay
+attr? animAddRemoveDuration
+attr? animDuration
+attr? animType
+attr? cardRatio
+id front
+id frontToLast
+id switchPosition
+string app_name
+styleable InfiniteCardView animType cardRatio animDuration animAddRemoveDelay animAddRemoveDuration

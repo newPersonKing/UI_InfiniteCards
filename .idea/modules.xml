@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-InfiniteCards-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-InfiniteCards-master.iml" group="Android-InfiniteCards-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Android-InfiniteCards-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infinite-cards/infinite-cards.iml" filepath="$PROJECT_DIR$/.idea/modules/infinite-cards/infinite-cards.iml" group="Android-InfiniteCards-master/infinite-cards" />
+    </modules>
+  </component>
+</project>

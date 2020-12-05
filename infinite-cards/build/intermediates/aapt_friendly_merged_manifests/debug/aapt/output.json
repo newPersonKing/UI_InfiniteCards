@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "com.bakerj.infinitecards.lib",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 3,
+        "versionName": "1.0.3",
+        "outputFile": "infinite-cards-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.bakerj.infinitecards.lib",
+        "split": ""
+      }
+    }
+  ]
+}

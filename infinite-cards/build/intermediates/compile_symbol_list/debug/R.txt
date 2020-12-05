@@ -1,0 +1,15 @@
+int attr animAddRemoveDelay 0x0
+int attr animAddRemoveDuration 0x0
+int attr animDuration 0x0
+int attr animType 0x0
+int attr cardRatio 0x0
+int id front 0x0
+int id frontToLast 0x0
+int id switchPosition 0x0
+int string app_name 0x0
+int[] styleable InfiniteCardView { 0x0, 0x0, 0x0, 0x0, 0x0 }
+int styleable InfiniteCardView_animAddRemoveDelay 0
+int styleable InfiniteCardView_animAddRemoveDuration 1
+int styleable InfiniteCardView_animDuration 2
+int styleable InfiniteCardView_animType 3
+int styleable InfiniteCardView_cardRatio 4

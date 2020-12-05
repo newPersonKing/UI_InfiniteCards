@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_pic3.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-hdpi/pic3.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/layout_item_card.xml.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/layout/item_card.xml"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_pic2.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-hdpi/pic2.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_pic4.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-hdpi/pic4.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_pic5.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-hdpi/pic5.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_pic1.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-hdpi/pic1.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/guoyong/Desktop/Android-InfiniteCards-master/app/src/main/res/layout/activity_main.xml"
+    }
+]
